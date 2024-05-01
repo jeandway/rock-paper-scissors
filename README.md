@@ -1,2 +1,2 @@
 # rock-paper-scissors
-✊✋✌ Randomization and Python Lists game
+✊✋Randomization and Python Lists game
